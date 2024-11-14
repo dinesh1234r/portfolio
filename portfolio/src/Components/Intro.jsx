@@ -1,7 +1,7 @@
 import React from 'react'
 import {Box, Flex, Heading, HStack,Image, IconButton,Text,Link,Spacer,useColorMode,useMediaQuery} from '@chakra-ui/react'
 import { FaGithub, FaLinkedin , FaSun, FaMoon } from "react-icons/fa";
-// import { useMediaQuery } from "@chakra-ui/media-query";
+import Photo from '../Assets/Profilephoto.JPG'
 
 function Intro() {
     const { colorMode, toggleColorMode } = useColorMode();

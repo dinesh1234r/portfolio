@@ -63,7 +63,7 @@ function Skill() {
                 <Text fontSize={'1xl'} fontWeight={'semibold'}>Mongoose</Text>
             </VStack>
             <VStack h={'20vh'} w={'15vh'}>
-                <Image src='https://siakhooi.github.io/java-g5-framework/img/logo.jpg'/>
+                <Image src='https://siakhooi.github.io/java-g5-framework/img/logo.jpg' borderRadius={'full'}/>
                 <Spacer/>
                 <Text fontSize={'1xl'} fontWeight={'semibold'}>Java</Text>
             </VStack>
@@ -73,7 +73,7 @@ function Skill() {
                 <Text fontSize={'1xl'} fontWeight={'semibold'}>MY SQL</Text>
             </VStack>
             <VStack h={'20vh'} w={'15vh'}>
-                <Image src='https://logowik.com/content/uploads/images/github9775.jpg'/>
+                <Image src='https://logowik.com/content/uploads/images/github9775.jpg' borderRadius={'full'}/>
                 <Spacer/>
                 <Text fontSize={'1xl'} fontWeight={'semibold'}>Git Hub</Text>
             </VStack>
